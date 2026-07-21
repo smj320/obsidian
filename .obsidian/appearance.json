@@ -1,0 +1,10 @@
+{
+  "enabledCssSnippets": [
+    "red-empasis"
+  ],
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "YuGothic",
+  "textFontFamily": "YuGothic",
+  "monospaceFontFamily": "YuGothic"
+}
