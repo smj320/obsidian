@@ -1,3 +1,12 @@
 strong, .cm-strong {
   color: #fb6001; /* 好みの赤色に変更可能です */
 }
+.is-flashing {
+    background-color: transparent !important;
+}
+body {
+    /* 通常のリンクやObsidianリンクの文字色 */
+    --link-color: #007dfb; 
+    /* ホバー時（マウスを乗せたとき）の色（必要に応じて変更してください） */
+    --link-hover-color: #0371f7;
+}
